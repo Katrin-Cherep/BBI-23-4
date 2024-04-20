@@ -1,0 +1,7 @@
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\bin\Debug\Lab6_level1_n1.exe.config
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\bin\Debug\Lab6_level1_n1.exe
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\bin\Debug\Lab6_level1_n1.pdb
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\obj\Debug\Lab6_level1_n1.csproj.AssemblyReference.cache
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\obj\Debug\Lab6_level1_n1.csproj.CoreCompileInputs.cache
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\obj\Debug\Lab6_level1_n1.exe
+C:\Users\qwert\OneDrive\Рабочий стол\info\Lab6_level1_n1\obj\Debug\Lab6_level1_n1.pdb

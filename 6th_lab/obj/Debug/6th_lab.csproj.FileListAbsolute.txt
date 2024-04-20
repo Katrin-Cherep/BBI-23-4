@@ -5,3 +5,10 @@ C:\Users\G528\Source\Repos\BBI-23-4\6th_lab\obj\Debug\6th_lab.csproj.AssemblyRef
 C:\Users\G528\Source\Repos\BBI-23-4\6th_lab\obj\Debug\6th_lab.csproj.CoreCompileInputs.cache
 C:\Users\G528\Source\Repos\BBI-23-4\6th_lab\obj\Debug\6th_lab.exe
 C:\Users\G528\Source\Repos\BBI-23-4\6th_lab\obj\Debug\6th_lab.pdb
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\bin\Debug\6th_lab.exe.config
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\bin\Debug\6th_lab.exe
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\bin\Debug\6th_lab.pdb
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\obj\Debug\6th_lab.csproj.AssemblyReference.cache
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\obj\Debug\6th_lab.csproj.CoreCompileInputs.cache
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\obj\Debug\6th_lab.exe
+C:\Users\qwert\OneDrive\Рабочий стол\info\6th_lab\obj\Debug\6th_lab.pdb
